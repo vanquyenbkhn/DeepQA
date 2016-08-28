@@ -23,8 +23,8 @@ The program require the following dependecies (easy to install using conda):
 * tensorflow (tested with v0.9.0)
 * numpy: already included in python 3
 * CUDA (for using gpu, see TensorFlow installation page for more details)
-* nltk: 
-* tqdm (for the nice progression bars)
+* nltk: `conda install nltk`
+* tqdm: `conda install -c conda-forge tqdm=4.8.2`
 * The Cornell dataset is already included.
 
 
