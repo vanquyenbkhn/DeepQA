@@ -3,7 +3,7 @@ Tensorflow Installation
 
 Steps to install tensorflow using conda
 
-1. Install anaconda
+1. Install anaconda (http://www.techinfected.net/2016/03/install-anaconda-ubuntu-linux.html)
 2. Create conda environment called tensorflow: `conda create -n tensorflow python=3.5`
 3. Run: `source activate tensorflow` and `conda install -c conda-forge tensorflow` 
 4. ... use tensorflow after installation
